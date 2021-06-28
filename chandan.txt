@@ -9,3 +9,4 @@ var existingStudent = db.Student.Find(Convert.ToInt32(LabelId.Text));
                 Reset();
                 LoadData();
             }
+            asdfasdfasdfasdf
